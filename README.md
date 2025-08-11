@@ -93,8 +93,6 @@ The system enables farmers to make **data-driven decisions** by integrating:
 - 🔍 **Proactive Farm Management** → Early detection of issues.  
 - 🌍 **Sustainability** → Environmentally responsible practices.
 
-**Mentor:** Eng. Ibrahim El-Shal
-
 ---
 
 ## 📅 Date
